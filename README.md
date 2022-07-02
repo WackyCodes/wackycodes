@@ -1,7 +1,7 @@
 ### Welcome to Wacky World!
 
 <p align="left">
-  <img src="http://surl.li/bazsa" height="200" />
+  <img src="https://lh3.googleusercontent.com/pw/AM-JKLWfuCT2NYt8vpVw643zZ0pTEdFWeA31w3P2r2zYiHwnsFJAwkqJ4dE4_toNC_jh9frFmWlWWOEl9ylc61wqWwIkotw_H1Quj1Fqb04HLCW-YPs0ij4xKyne9RsT3-2WO4ZYW7uajJydKFs-V5nZM2Hu=s579-no?authuser=0" height="200" />
 </p>
 
 # Hi there👋! I'm [Shailendra Lodhi](https://linktr.ee/wackycodes) 🙋‍♂️
