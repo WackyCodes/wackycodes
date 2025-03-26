@@ -6,16 +6,17 @@
 
 # Hi there👋! I'm [Shailendra Lodhi](https://linktr.ee/wackycodes) 🙋‍♂️
 
-_**LATEST UPDATE:**_ _Create A Library for UPI Payment inside android application_
+_**LATEST UPDATE:**_ _Delivered a Cab booking application project with full of functionality_
 
 ### 🎍 Welcome to my world
 
 - 📱 Mobile App developer.
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
-- 🌐 Little bit exploring Web development too.
+- 👀 I’m interested in Android❤️, OpenPages and 🔥AI Technology
+- 🌐 A bit exploring Web development too.
 - Loves 🎵 and 🎹.
 - Proud 🇮🇳.
+- ⚡ Fun fact: 🕹️ I might be an Android dev by day, but at night, I’m probably gaming or tweaking some open-source project 🎮
 
 
 ---
